@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/jquintozamora/react-taxonomypicker#readme",
   "engines": {
-    "node": "^10.16.x",
+    "node": ">= 10.16.0",
     "npm": "6.4.1"
   },
   "dependencies": {
